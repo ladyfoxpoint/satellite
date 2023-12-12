@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="replace-this-when-logo-upload"  />
+  <img height="300" src="https://github.com/ladyfoxpoint/satellite/blob/main/static/satellite-logo-full.png?raw=true"/>
 </div>
 
 ###
